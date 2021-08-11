@@ -1,5 +1,6 @@
 # All the commands are supposed to run on Linux.
 # I use Docker. Please see README.md
+# test
 
 all: minigo /tmp/tmpfs
 
